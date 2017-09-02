@@ -114,6 +114,8 @@ plt.axis("equal") # doesn't stretch when equal
 plt.savefig("oakland_animaltype.png")
 plt.show()
 ```
+![alt text](https://github.com/angiedyi/bootcamp-project1/blob/master/oakland_animaltype.png)
+
 ```python
 labels = ["Dogs", "Cats", "Other"]
 sizes = [sacramento_dogs, sacramento_cats, sacramento_others]
@@ -129,6 +131,8 @@ plt.axis("equal") # doesn't stretch when equal
 plt.savefig("sacramento_animaltype.png")
 plt.show()
 ```
+![alt text](https://github.com/angiedyi/bootcamp-project1/blob/master/sacramento_animaltype.png)
+
 ```python
 labels = ["Dogs", "Cats", "Other"]
 sizes = [sanfrancisco_dogs, sanfrancisco_cats, sanfrancisco_others]
@@ -144,6 +148,8 @@ plt.axis("equal") # doesn't stretch when equal
 plt.savefig("sf_animaltype.png")
 plt.show()
 ```
+![alt text](https://github.com/angiedyi/bootcamp-project1/blob/master/sf_animaltype.png)
+
 ```python
 labels = ["Dogs", "Cats", "Other"]
 sizes = [sanjose_dogs, sanjose_cats, sanjose_others]
@@ -159,6 +165,8 @@ plt.title("City of San Jose Animal Shelter (% by Animal Type)")
 plt.savefig("sanjose_animaltype.png")
 plt.show()
 ```
+![alt text](https://github.com/angiedyi/bootcamp-project1/blob/master/sanjose_animaltype.png)
+
 ```python
 #Analytical Calculations and Observations
 #using resources from: https://www.aspca.org/animal-homelessness/shelter-intake-and-surrender/pet-statistics
